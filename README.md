@@ -9,4 +9,4 @@ NIST SD27: minutiae pairs
 
 FVC2004 DB1A: indexing
 
-NIST SD14 is too large to upload to github, if you are interested, contact me at yinqh14@mails.tsinghua.edu.cn for the results and evaluation codes.
+The MCC features for NIST SD14 is too large to upload to github, thus we only uploaded the pose estimated by corresponding algorithms. if you are interested, contact me at yinqh14@mails.tsinghua.edu.cn for the MCC features and evaluation codes.
